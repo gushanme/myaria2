@@ -1,0 +1,14 @@
+#[Unit]
+###这个是对这个文件的简单描述
+Description= Aria2c Service
+After=network.target
+[Service]
+Type=simple
+User=xiaoxiao   
+####这里是用户名不能使用的话要更改为root
+###这个文件要运行的内容
+ExecStart=/usr/bin/aria2c --conf-path=/home/xiaoxiao/.config/aria2/aria2.conf --enable-rpc --rpc-listen-all
+###这里面上面如果不能使用把/usr/bin/aria2c直接换成aria2c,--enable-rpc --rpc-listen-all换成--enable-rpc=true
+[Install]
+WantedBy=multi-user.target 
+##WantedBy=default.target
