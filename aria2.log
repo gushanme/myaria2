@@ -3142,3 +3142,76 @@
 2024-12-25 23:07:55.940264 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
 2024-12-25 23:07:56.952293 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
 2024-12-25 23:07:57.956980 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:06.153114 [INFO] [Context.cc:179] <<--- --- --- ---
+2024-12-26 09:41:06.168780 [INFO] [Context.cc:180]   --- --- --- ---
+2024-12-26 09:41:06.168780 [INFO] [Context.cc:181]   --- --- --- --->>
+2024-12-26 09:41:06.168780 [INFO] [Context.cc:182] aria2 1.37.0
+2024-12-26 09:41:06.168780 [INFO] [Context.cc:183] mingw-w64 8.0.0 (alpha) / gcc 10-win32 20220113
+  built by  x86_64-pc-linux-gnu
+  targeting x86_64-w64-mingw32
+  on        Nov 15 2023 11:17:49
+2024-12-26 09:41:06.168780 [INFO] [Context.cc:184] Windows 6.2 (x86_64) (6.2)
+2024-12-26 09:41:06.168780 [INFO] [Context.cc:185] zlib/1.3 expat/2.5.0 sqlite3/3.43.1 GMP/6.3.0 c-ares/1.19.1 libssh2/1.11.0
+2024-12-26 09:41:06.168780 [INFO] [Context.cc:186] Logging started.
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1586] Checking configured addresses
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: fe80::277b:f055:f8ae:5ec1%5
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: 169.254.77.38
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: fe80::b68e:cfb2:9200:412b%10
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: 169.254.46.109
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: fe80::97bb:72d:5ffe:c75e%15
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: 169.254.81.246
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: fe80::d5d6:1321:fae8:a29%21
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: 169.254.92.114
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: fe80::1eed:5080:bfc0:2fcf%53
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1647] Found configured address: 192.168.38.1
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: fe80::23e6:969:fcff:feec%54
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1647] Found configured address: 192.168.232.1
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: fe80::3f18:b22a:a7f8:1671%23
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1647] Found configured address: 192.168.31.234
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: fe80::2343:9497:c24d:6833%7
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: 169.254.84.71
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: ::1
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1650] Not considered: 127.0.0.1
+2024-12-26 09:41:06.168780 [INFO] [SocketCore.cc:1657] IPv4 configured=1, IPv6 configured=0
+2024-12-26 09:41:06.168780 [WARN] [DownloadEngineFactory.cc:198] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+2024-12-26 09:41:06.168780 [INFO] [HttpListenCommand.cc:106] CUID#8 - Using port 6800 for accepting new connections
+2024-12-26 09:41:06.168780 [NOTICE] [HttpListenCommand.cc:108] IPv4 RPC: listening on TCP port 6800
+2024-12-26 09:41:06.168780 [INFO] [HttpListenCommand.cc:106] CUID#9 - Using port 6800 for accepting new connections
+2024-12-26 09:41:06.168780 [NOTICE] [HttpListenCommand.cc:108] IPv6 RPC: listening on TCP port 6800
+2024-12-26 09:41:07.169037 [NOTICE] [SaveSessionCommand.cc:81] Serialized session to 'aria2.session' successfully.
+2024-12-26 09:41:08.175343 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:09.181455 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:10.203566 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:11.229714 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:12.244774 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:13.246616 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:14.253008 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:15.259066 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:16.263894 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:17.268026 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:18.275644 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:19.301446 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:20.311514 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:21.318239 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:22.324478 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:23.330955 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:24.337118 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:25.342724 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:26.348536 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:27.373070 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:28.383209 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:29.388715 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:30.392960 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:31.397442 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:32.402976 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:33.405656 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:34.410420 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:35.435161 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:36.457906 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:37.461988 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:38.468413 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:39.488982 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:40.496073 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:41.500566 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:42.506461 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
+2024-12-26 09:41:43.528237 [INFO] [SaveSessionCommand.cc:73] No change since last serialization or startup. No serialization is necessary this time.
